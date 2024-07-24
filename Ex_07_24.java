@@ -3,7 +3,7 @@ package ex_repeat;
 import java.util.Scanner;
 
 public class Ex_07_24 {
-
+//페이지 예제 복습
 	public static void main(String[] args){
 
 		Scanner sc = new Scanner(System.in);
