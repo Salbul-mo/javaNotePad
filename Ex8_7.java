@@ -1,3 +1,5 @@
+// 입력 받을 때 예외처리하는 예시
+
 package jeong_seok.exception;
 
 import java.util.Scanner;
